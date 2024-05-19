@@ -1,0 +1,5 @@
+Türkis: (102, 252, 241)
+Dark Türkis: (70, 162, 159)
+Gray: (197, 198, 200)
+Dark Gray Blue: (32, 40, 51)
+Black Blue: (11, 12, 16)

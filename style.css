@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(11, 12, 16);
+    font-family: 'Courier New', Courier, monospace;
+ }
+
+.überschrift {
+    color: rgb(102, 252, 241);
+    margin-top: 50px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    font-size: 50px;
+    justify-content: center;
+ }
+
+
+.main-text {
+    color: rgb(197, 198, 200);
+    text-align: center;
+}
+
+.table {
+    color: rgb(197, 198, 200);
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(197, 198, 200, 0.15);
+}
+
+.table thead tr {
+    background-color: rgb(70, 162, 159);
+    color: #ffffff;
+    text-align: left;
+}
+
+.table th,
+.table td {
+    padding: 12px 15px;
+}
+
+section {
+    display: flex;
+    align-items: right;
+    width: 100%;
+    margin-top: 2px;
+    justify-content: center;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 15;
+}
+
+ul li a {
+    text-decoration: none;
+    color: rgb(197, 198, 200);
+    font-size: 18px;
+    transform: 0.8s all linear;
+    padding: 5px 10px;
+}
